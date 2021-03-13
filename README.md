@@ -7,4 +7,6 @@ $ yarn tsc --init
 $ vim webpack.config.js
 $ mkdir src
 $ vim src/main.ts
+$ yarn build
+$ yarn start
 ```
